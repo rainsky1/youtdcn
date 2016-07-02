@@ -13,10 +13,10 @@ CN Youtd, Best Youtd!
 
 ### 汉化人员
 - 雨天放晴
-- tarmo
+- tarmo (aka SWC3)
 - and more...
 
 ### 名人堂
 - 1.01版本汉化： KeVin
-- 1.04-1.06版本汉化： yuguokksk
+- 1.04, 1.06版本汉化： yuguokksk
 - 百度Youtd吧（QQ群）
